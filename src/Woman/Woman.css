@@ -1,0 +1,162 @@
+.womanwatche{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.manwatche-home-add{
+    width: 100%;
+    height: 255px;
+
+}
+.manwatche-image{
+    background-size: cover;
+}
+
+/* --------------- */
+.manwatche-found{
+    margin: 25px;
+}
+.manwatche-found-name{
+   
+    margin: 25px;
+}
+
+/* ---------------- */
+
+.manwatche-top-button{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height:80px ;
+    margin: auto;
+    justify-content: space-between;
+
+}
+.manwatche-top-button-first{
+    width: 200px;
+    height: 50px;
+    border: 1px solid rgb(29, 21, 21);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.manwatche-top-button-first-img{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    
+}
+.manwatche-top-button-first-btn{
+    display: flex;
+    flex-direction: row;
+    
+}
+.manwatche-top-button-seconde{
+    width: 200px;
+    height: 50px;
+    border: 1px solid rgb(29, 21, 21);
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.manwatch-items{
+    display: flex;
+    flex-direction: row;
+    
+}
+.manwtsch-items-list{
+    display: flex;
+    flex-direction: row;
+    width: 98%;
+    height: 495px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+.manwatche-item-list-main{
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    height: 480px;
+    /* border: 1px solid green; */
+    
+    margin: auto;
+}
+.manwatche-item-list-top{
+    width: 280px;
+    height: 280px;
+    margin: 0;
+    padding: 0;
+}
+.manwatche-item-list-img{
+    background-size: cover;
+}
+.manwatche-item-list-arr{
+    text-decoration: none;
+    color: #181818;
+    font-family: "Playfair Display";
+    font-weight: 600;
+    font-size: 17px; 
+    margin-top:10px ;  
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.manwatche-item-list-center-price{
+    font-family: "Playfair Display";
+    font-size: 17px;
+    font-weight: bold;   
+   text-align: center;
+   margin-bottom: 15px;
+}
+
+.manwatche-item-list-top-buttton{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+.manwatche-item-list-top-buttton-boo{
+    background-color: #444141;
+    border: 1px solid #444141;
+    color: white;
+    width: 105px;
+    height: 30px;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.menwatch-buutton-bottom{
+    width: 100%;
+    height: 50px;
+    background-color: #222121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menwatch-buutton-bottom-div{
+    color: white;
+    font-family: "Playfair Display";   
+}
+
+/* ----------------------------------- */
+
+.manwatch-bottom-add0image{
+    width: 100%;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 20px;
+}
+.manwatch-bottom-addimage-one{
+    width: 100%;
+    height: 250px;
+    margin-bottom: 15apx;
+}

@@ -1,0 +1,94 @@
+.collection{
+    width: 100%;
+    height: 670px;
+    border-bottom: 1px solid rgb(128, 121, 121);
+}
+.collection-top{
+    display: flex;
+    flex-direction: column;
+}
+.collection-top-head{
+    display: flex;
+    flex-direction: column;
+    
+}
+.collection-headline-ss{
+    display: flex;
+    justify-content: center;
+}
+.collection-headline{
+    color: #000;
+    font-weight: bold;
+    font-family: "Playfair Display";
+    font-size: 33px;
+    margin-top: 40px;
+    
+}
+
+.collections-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 35px;
+}
+li{
+
+    list-style: none;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+button{
+    font-size: 16px;
+    background-color: white;
+    border: none;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+
+/* -------------images-------------- */
+
+.collection-images{
+    width: 92%;
+    height: 500px ;
+    /* border: 1px solid red; */
+    margin: 15px auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.collection-images-image{
+    display: flex;
+    flex-direction: row;
+}
+
+.collection-ul-img{
+    display: flex;
+    
+}
+.collection-li-img{
+    display: flex;
+    flex-direction: column;
+}
+
+.collection-image-arr{
+    display: flex;
+    flex-direction: row;
+}
+
+.collection-img{
+    width: 266px;
+    height: 390px;
+    margin-bottom: 15px;
+}
+
+.collection-p{
+    font-size: 17px;
+    font-weight: 300;
+    font-family: "Playfair Display";
+}

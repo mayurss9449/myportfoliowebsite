@@ -1,0 +1,33 @@
+
+.home-add{
+    width: 100%;
+    height: 525px;
+    /* border: 1px solid red; */
+}
+.home-add-top{
+    width: 97%;
+    height: 525px;
+    /* border: 1x solid green; */
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+.home-add-top-list{
+    display: flex;
+    
+    
+}
+.home-aap-list-one {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+img{
+    /* display: block; */
+    align-items: center;
+    max-width: 100%;
+    background-size: cover;
+    
+
+}

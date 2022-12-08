@@ -1,0 +1,142 @@
+.header-nav{
+    width: 100%;
+    height: 118px;
+    /* border: 1px solid red; */
+}
+.header-top{
+    width: 92%;
+    height: 51px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.header-top-nav{
+    width: 100%;
+    height: 30px;
+    /* border: 1px solid red; */
+    display: flex;
+    margin: auto;
+    
+}
+
+.header-top-nav-list{
+    width: 98%;
+    display: flex;
+    
+    justify-content: space-between !important;
+    margin: auto;
+    /* border: 1px solid blue; */
+}
+.header-top-left{
+    display: flex;
+}
+.header-left-one{
+    text-decoration: none;
+    color: #181818;
+    font-family: Roboto,sans-serif;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 500;
+}
+/* -----------top right */
+.header-top-right{
+    display: flex !important;
+    flex-direction: row-reverse !important;
+}
+.header-right-one {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #181818;
+    font-family: Roboto,sans-serif;
+    align-items: center;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-left: 35px;
+}
+
+/* ----------------header bottom left-------------- */
+
+.header-bottom{
+    width: 100%;
+    height: 65px;
+    border-top: 1px solid #d1d1d1;
+    border-bottom: 1px solid #d1d1d1;
+}
+.header-bottom-nav{
+    width: 92%;
+    height: 62px;
+    display: flex;
+    margin: auto;
+    /* border: 1px solid green; */
+}
+
+.header-bottom-nav-list{
+    display: flex;
+
+}
+
+/* -------------- */
+.header-bottom-left-list{
+    display: flex;
+    flex-direction: row;
+    width: 522px ;
+    height: 63px;
+    /* border: 1px solid rgb(128, 128, 0); */
+    justify-content: space-evenly;
+    align-items: center;
+}
+.header-bottom-left-list-parent a{
+    text-decoration: none;
+    color: #181818;
+    font-size: 15px;
+    font-family: Roboto,sans-serif;
+    letter-spacing: 1px;
+}
+
+
+/* ----------header-center--------- */
+.header-bottom-center{
+    width: 130px;
+    height: 63px;
+    /* border: 1px solid red; */
+    
+}
+.header-bottom-center-logo{
+    display: flex;
+    align-items: center;
+}
+.header-bottom-center-logo-img {
+    display: flex;
+
+}
+
+.header-bottom-center-logo-img-one{
+    display: flex;
+    margin-top: 15px;
+
+}
+
+/* ---------header bottom right list------------ */
+.header-bottom-right-list{
+    width: 522px ;
+    height: 63px;
+    /* border: 1px solid yellow; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.header-bottom-right-list-parent a{
+    text-decoration: none;
+    color: #181818;
+    font-size: 15px;
+    font-family: Roboto,sans-serif;
+    letter-spacing: 1px;
+}
