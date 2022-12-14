@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/myportfoliowebsite/static/css/main.070a0790.css",
-    "main.js": "/myportfoliowebsite/static/js/main.3186ff0e.js",
-    "static/js/787.128fc6e9.chunk.js": "/myportfoliowebsite/static/js/787.128fc6e9.chunk.js",
-    "index.html": "/myportfoliowebsite/index.html",
-    "main.070a0790.css.map": "/myportfoliowebsite/static/css/main.070a0790.css.map",
-    "main.3186ff0e.js.map": "/myportfoliowebsite/static/js/main.3186ff0e.js.map",
-    "787.128fc6e9.chunk.js.map": "/myportfoliowebsite/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/titanclonereactwebsite/static/css/main.522e727e.css",
+    "main.js": "/titanclonereactwebsite/static/js/main.251abb42.js",
+    "static/js/787.1ce7f051.chunk.js": "/titanclonereactwebsite/static/js/787.1ce7f051.chunk.js",
+    "static/media/revicons.eot": "/titanclonereactwebsite/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/titanclonereactwebsite/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/titanclonereactwebsite/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/titanclonereactwebsite/index.html",
+    "main.522e727e.css.map": "/titanclonereactwebsite/static/css/main.522e727e.css.map",
+    "main.251abb42.js.map": "/titanclonereactwebsite/static/js/main.251abb42.js.map",
+    "787.1ce7f051.chunk.js.map": "/titanclonereactwebsite/static/js/787.1ce7f051.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.070a0790.css",
-    "static/js/main.3186ff0e.js"
+    "static/css/main.522e727e.css",
+    "static/js/main.251abb42.js"
   ]
 }
