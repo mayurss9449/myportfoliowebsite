@@ -18,11 +18,11 @@ function App() {
   return (
     <Router>
       <div className='app'>
-        
+      
         
         <Routes>
 
-        <Route path='/home' element={<><Header /><Home /><Footer /></>} />
+        <Route path='/' element={<><Header /><Home /><Footer /></>} />
         <Route path='/menwatch' element={<><Header /><Manwatche/> </>} />
         <Route path='/woman' element={<><Header /><Woman/> </>} />
         

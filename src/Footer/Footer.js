@@ -27,8 +27,8 @@ function Footer() {
                                 </div>
                                 <div className='footer-ul-div'>
                                     <ul className='footer-seconde-ul'>
-                                        <li className='footer-sseconde-li'><a className='footer-seconde-arr' href="">1800-266-0123</a></li>
-                                        <li className='footer-sseconde-li'><a className='footer-seconde-arr' href="">customercare@titan.co.in</a></li>
+                                        <li className='footer-sseconde-li'><a className='footer-seconde-arr' href="">1811-266-0123</a></li>
+                                        <li className='footer-sseconde-li'><a className='footer-seconde-arr' href="">customer@titan.co.in</a></li>
                                         <li className='footer-sseconde-li'><a className='footer-seconde-arr' href="">FAQ</a></li>
                                     </ul>
                                 </div>
